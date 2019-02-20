@@ -1,0 +1,3 @@
++ Monomial: [mo'nomɪəl] 单项式
++ Polynomial: [,pɑlɪ'nomɪəl] 多项式
++ coefficient: 系数
