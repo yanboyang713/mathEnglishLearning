@@ -3,3 +3,10 @@
 + coefficient: 系数
 + binomial: 二项式
 + trinomial: 三项式
++ factorization: 因子分解
++ Univariate:[juːnɪ'veərɪət] 单变量的
++ Factoring:['fæktɚ]  因子分解
+
+* formulas
+Sum of two cubes: $a^3 + b^3 = (a+b) (a^2 -ab +b^2)$
+difference of two cubes: $a^3 - b^3 = (a - b) (a^2 +ab +b^2)$
