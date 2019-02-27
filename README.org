@@ -6,6 +6,10 @@
 + factorization: 因子分解
 + Univariate:[juːnɪ'veərɪət] 单变量的
 + Factoring:['fæktɚ]  因子分解
++ denominator: [dɪ'nɑmə'netɚ] 分母
++ perpendicular: ['pɝpən'dɪkjəlɚ] 垂直的
++ imaginary: 虚数的 [ɪ'mædʒɪnɛri]
++ Complex Number: 复数
 
 * formulas
 Sum of two cubes: $a^3 + b^3 = (a+b) (a^2 -ab +b^2)$
