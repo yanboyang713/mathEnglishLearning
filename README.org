@@ -11,7 +11,12 @@
 + imaginary: 虚数的 [ɪ'mædʒɪnɛri]
 + Complex Number: 复数
 + quadratic: 二次的[kwɑ'drætɪk]
++ nearest hundredth: 约等于小数点后两位
 
 * formulas
 Sum of two cubes: $a^3 + b^3 = (a+b) (a^2 -ab +b^2)$
 difference of two cubes: $a^3 - b^3 = (a - b) (a^2 +ab +b^2)$
+
+** Quadratic Formula
+$ax^2 + bx + c = 0$
+$x = frac{-b }{}$
