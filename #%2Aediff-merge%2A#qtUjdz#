@@ -13,17 +13,10 @@
 + quadratic: 二次的[kwɑ'drætɪk]
 可以+ nearest hundredth: 约等于小数点后两位
 + discriminant: [dɪ'skrɪmənənt] 判别式
-+ parabola: 抛物线[pəˈræbələ]
 * formulas
-Sum of two cubes: $a^3 + b^3 = (a+b) (a^2 -ab +b^2)$
-difference of two cubes: $a^3 - b^3 = (a - b) (a^2 +ab +b^2)$
 
-** Quadratic Formula
-$ax^2 + bx + c = 0$
 $x = frac{-b }{}$
 
 ** 两点式的表达公式是(y-y2)/(y1-y2) = (x-x2)/(x1-x2)
 
-*
-A function $f$ is called even if $f(-x) = f(x)$ for all $x$ in the domain of $f$.
-A function $f$ is called odd if $f(-x) = -f(x)$ for all $x$ in the domain of $f$.
+lalala
